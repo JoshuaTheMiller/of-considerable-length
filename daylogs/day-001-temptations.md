@@ -2,7 +2,7 @@
 description: 'So far, there is only one rule'
 ---
 
-# Day 001 - Temptations
+# 001 - Temptations
 
 The King told the Shade to never leave the caverns, and to wake him up after 400 days...
 
@@ -10,7 +10,7 @@ It appears that, not only is there a way to leave the caverns, but that I may be
 
 Besides working past the various temptations, I spent a far amount of time exploring and getting lost in the caverns. I found many "fallen brothers," which appear to be pieces of coal. Am I coal? Time will tell.
 
-![I may just be that fool](.gitbook/assets/image%20%282%29.png)
+![I may just be that fool](../.gitbook/assets/image%20%282%29.png)
 
 Stumbling across the Halls of Eternity so soon was a treat. Stopping time and traveling in them for 20 minutes lead to some additional interesting finds. I wonder what else I would find if I continued for longer?
 
