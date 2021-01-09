@@ -19,6 +19,7 @@ Accomplishments so far:
 * Resisted the temptation to leave
 * Explored the Halls of Eternity
 * Drew two pictures of eyes
+* I have seen the Mattock, I will retrieve it two weeks from now! 
 
 Are louse and lice the same?
 
