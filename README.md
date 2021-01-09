@@ -29,3 +29,5 @@ Well, that is about all I have to say at this point, as I truly do not know that
 * My journal: [https://joshuathemiller.gitbook.io/of-considerable-length/](https://joshuathemiller.gitbook.io/of-considerable-length/)
 * @abergstromstarks' journal: [https://abergstromstarks.gitbook.io/yearning/](https://abergstromstarks.gitbook.io/yearning/)
 
+**For the King!**
+
