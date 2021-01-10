@@ -2,7 +2,7 @@
 description: 'I spent many hours exploring, and I broke the rule...'
 ---
 
-# 002 - Exploration
+# 399-398 - Exploration
 
 I decided to stand in front of the great mural I found yesterday. I finally deciphered it! It looks like there is a lot to explore, but I am not sure how everything connects quite yet. Upwards looks like quite a journey, but as stated yesterday, I am not to go up.
 

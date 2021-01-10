@@ -2,7 +2,7 @@
 description: 'So far, there is only one rule'
 ---
 
-# 001 - Temptations
+# 400-399 - Temptations
 
 The King told the Shade to never leave the caverns, and to wake him up after 400 days...
 

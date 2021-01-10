@@ -4,8 +4,8 @@
 
 ## Daylogs
 
-* [001 - Temptations](daylogs/day-001-temptations.md)
-* [002 - Exploration](daylogs/002-exploration.md)
+* [400-399 - Temptations](daylogs/day-001-temptations.md)
+* [399-398 - Exploration](daylogs/002-exploration.md)
 
 ## Places of Interest <a id="halls-of-eternity"></a>
 
@@ -13,5 +13,6 @@
 
 ## Spoilers
 
+* [Waiting](spoilers/waiting.md)
 * [South West Caverns](spoilers/south-west-caverns.md)
 
