@@ -11,4 +11,6 @@ So far, I have come across the following:
 * New curtains that match my chair
 * Paper
 * A book
+* A head!
+* A new rug!
 
