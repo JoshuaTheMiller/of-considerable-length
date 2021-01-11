@@ -22,5 +22,7 @@ Other accomplishments of today include:
 
 My spider friend does not talk much:
 
+![He&apos;s awfully quiet](../.gitbook/assets/talkingwithmyspiderfriend.gif)
+
 
 
