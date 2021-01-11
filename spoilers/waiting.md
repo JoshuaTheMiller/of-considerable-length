@@ -7,7 +7,7 @@ description: >-
 # Waiting
 
 * [x] For the door up to open \(a while\)
-* [ ] For moss to grow \(~ day 393\)
+* [ ] For moss to grow \(~ day 386\)
 * [ ] For water droplets to fill a pool \(~ day 370\)
 * [ ] For a stalactite to fall \(~day 393\)
 
