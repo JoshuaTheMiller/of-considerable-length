@@ -4,12 +4,12 @@
 
 ## Daylogs
 
-* [400-399 - Temptations](daylogs/day-001-temptations.md)
+* [400-399 - Temptations](daylogs/001-temptations.md)
 * [399-398 - Exploration](daylogs/002-exploration.md)
 
-## Places of Interest <a id="halls-of-eternity"></a>
+## Places of Interest
 
-* [Halls of Eternity](halls-of-eternity/halls-of-eternity.md)
+* [Halls of Eternity](places-of-interest/halls-of-eternity.md)
 
 ## Spoilers
 

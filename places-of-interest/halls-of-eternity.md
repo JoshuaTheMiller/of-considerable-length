@@ -9,8 +9,8 @@ Time seems stopped, a sign says only fools try to reach the end, but are there s
 So far, I have come across the following:
 
 * New curtains that match my chair
-* Paper
-* A book
+* A lot of paper
+* Books
 * A head!
 * A new rug!
 

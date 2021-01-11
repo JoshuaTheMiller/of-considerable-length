@@ -20,3 +20,7 @@ Other accomplishments of today include:
 
 ![For a more detailed spoiler version of this map, check out the Spoilers section](../.gitbook/assets/image%20%285%29.png)
 
+My spider friend does not talk much:
+
+
+
