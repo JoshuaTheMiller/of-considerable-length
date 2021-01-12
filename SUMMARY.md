@@ -6,6 +6,7 @@
 
 * [400-399 - Temptations](daylogs/001-temptations.md)
 * [399-398 - Exploration](daylogs/002-exploration.md)
+* [398-395 - Reading](daylogs/398-395-reading.md)
 
 ## Places of Interest
 
