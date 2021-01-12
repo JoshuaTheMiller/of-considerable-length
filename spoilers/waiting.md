@@ -10,5 +10,5 @@ description: >-
 * [ ] For moss to grow \(~ day 386\)
 * [ ] For water droplets to fill a pool \(~ day 370\)
 * [ ] For a stalactite to fall \(~day 393\)
-* [ ] Spider to spin web \(~few days, stated on 398\)
+* [x] Spider to spin web \(~few days, stated on 398\)
 
