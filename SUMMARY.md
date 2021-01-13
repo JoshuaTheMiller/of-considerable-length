@@ -13,8 +13,9 @@
 
 * [Halls of Eternity](places-of-interest/halls-of-eternity.md)
 
-## Spoilers
+## Super Spoilers
 
-* [Waiting](spoilers/waiting.md)
-* [South West Caverns](spoilers/south-west-caverns.md)
+* [Waiting](super-spoilers/waiting.md)
+* [South West Caverns](super-spoilers/south-west-caverns.md)
+* [Silly Doors](super-spoilers/silly-doors.md)
 
