@@ -8,6 +8,7 @@
 * [399-398 - Exploration](daylogs/002-exploration.md)
 * [398-395 - Reading](daylogs/398-395-reading.md)
 * [395-391 - Wisdom](daylogs/395-391-wisdom.md)
+* [391-387 - Reading](daylogs/391-387-reading.md)
 
 ## Places of Interest
 
