@@ -7,7 +7,8 @@ description: >-
 # Waiting
 
 * [x] For the door up to open \(a while\)
-* [ ] For moss to grow \(~ day 386\)
+* [x] For moss to grow \(~ day 386\)
+* [ ] For more moss to grow \(~ day 372\)
 * [ ] For water droplets to fill a pool \(~ day 370\)
 * [x] For a stalactite to fall \(~day 393\)
 * [x] Spider to spin web \(~few days, stated on 398\)
