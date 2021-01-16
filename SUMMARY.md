@@ -10,6 +10,8 @@
 * [395-391 - Wisdom](daylogs/395-391-wisdom.md)
 * [391-387 - Reading](daylogs/391-387-reading.md)
 * [387-384 - Picking](daylogs/387-384-picking.md)
+* [384-383 - Lights](daylogs/384-383-lights.md)
+* [383 - Eternity](daylogs/383-eternity.md)
 
 ## Places of Interest
 

@@ -22,7 +22,7 @@ The breaking of the crystals by the pond seems to have reinvigorated my sense of
 
 It seems that my mattock is not strong enough to break through granite, and granite is what seems to be behind many paths. My disappointment has grown. I wonder if my cave face friend can help with that.
 
-On a less disappointing note, I have rescued a pink crystal from lonely clutches of the cavern.
+On a less disappointing note, I have rescued a pink crystal from the lonely clutches of the cavern.
 
 ![My home is nice](../.gitbook/assets/image%20%2811%29.png)
 
