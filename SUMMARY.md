@@ -12,6 +12,7 @@
 * [387-384 - Picking](daylogs/387-384-picking.md)
 * [384-383 - Lights](daylogs/384-383-lights.md)
 * [383 - Eternity](daylogs/383-eternity.md)
+* [383 - Eternity](daylogs/383-eternity-1.md)
 
 ## Places of Interest
 
